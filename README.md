@@ -37,9 +37,9 @@ High flow hotends are the most common type of hotend used today. They provide a 
 - [Dragonfly Hf]() - Ender style hotend, support Ender mounting, Volcano style nozzles.
 - [Red Lizard K1]() - V6 style hotend, clone of Dragon HF, supports groove or Dragon mounting, one handed nozzle changes, max flow~22 mm3/s.
 - [Bambulabs X1/P1]() - Bambulabs hotend, supports X1/P1 style mounting, festures a low price, max flow~22 mm3/s.
-- [TZ 2.0]()
-- [TZ 3.0]()
-- [CHC Pro]()
+- [TZ 2.0]() - Clone hotend with Bambulabs style heater block, availabe in a Bambulabs, V6+Dragon, or Ender style heatbreak and mounting, feautures V6 nozzles, one handed nozzle changes, Max flow~22 mm3/s.
+- [TZ 3.0/4.0]() - Clone hotend with Bambulabs style heater block, variant of TZ 2.0, availabe in a Bambulabs, V6+Dragon, or Ender style heatbreak and mounting, feautures single-piece throat+nozzle design, one handed nozzle changes.
+- [CHC Pro]() - 
 
 ### Ultra High Flow
 
