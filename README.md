@@ -3,11 +3,11 @@ A collection of 3D printer hotends.
 
 The 3D printer hotend is the business end of FDM 3D printers, responsible for melting plastic from a solid to a molten state.
 
-This is a list of popular all metal hotends compatible with common toolheads for Voron pritner, Printers for Ants, and other custom 3D printers. Non-standardized, PTFE lined, or proprietary hotends for  prebuilt machines shall typically be excluded unless widely adopted and supported by the community.
+This is a list of popular all-metal hotends compatible with common toolheads for Voron pritner, Printers for Ants, and other custom 3D printers. Non-standardized, PTFE lined, or proprietary hotends for  prebuilt machines shall typically be excluded unless widely adopted and supported by the community.
 
 Looking for a toolhead to go with your extruder of choice? Check out [Awesome-Toolheads](https://github.com/SartorialGrunt0/Awesome-Toolheads).
 
-How about an extruder? Checkout [Awesome-Extruders](https://github.com/SartorialGrunt0/Awesome-Extruders)
+How about an extruder? Checkout [Awesome-Extruders](https://github.com/SartorialGrunt0/Awesome-Extruders).
 
 --------------------
 ## Table of contents
@@ -16,27 +16,27 @@ How about an extruder? Checkout [Awesome-Extruders](https://github.com/Sartorial
 - [Ultra High Flow](#ultra-high-flow)
 - [Legacy](#legacy)
 
-### Standard Flow
+### Standard Flow (SF)
 
 Standard flow hotends are best suited for slower machines where higher flow hotends may lead to heat creep or are unneccessary. They typically have a max flow rate under 15 mm3/s. Many standard flow hotends can move into the high-flow category with meltzone extensions and CHT/filament split nozzles.
 
 - [E3D V6]() - The OG hotend, supports V6 groove mount, V6 nozzles, max flow~12 mm3/s.
-- [E3D Revo V6]() - The new and improved V6 hotend, support V6 groove mount, quick, cold swap nozzles, max flow~12 mm3/s.
-- [E3D Revo Voron]()- Variant of E3D revo V6, supports dragon mounting.
+- [E3D Revo V6]() - The new and improved V6 hotend, support V6 groove mount, quick cold swap nozzles, ceramic heater, max flow~12 mm3/s.
+- [E3D Revo Voron]() - Variant of E3D revo V6, supports dragon mounting.
 - [E3D Panda Revo]() - Variant of E3D revo V6, supports Bambu mounting.
-- [Dragon SF] - High quality hotend, supports dragon mounting, one-handed nozzle changes, max flow~15 mm3/s.
-- [Dragonfly] - 
-- [CHC]
+- [Phateus Dragon SF]() - V6 style hotend, introduced dragon mounting, one-handed nozzle changes, max flow~15 mm3/s.
+- [Phateus Dragonfly]() - V6/Ender style hotend, supports groove or Ender mounting, max flow~15mm3/s
+- [Trianglelabs CHC]() - V6 style hotend, supports groove mount, ceramuc heater, single or two-piece nozzle and throat.
 
-### High Flow
+### High Flow (HF)
 
 High flow hotends are the most common type of hotend used today. They provide a balance of flow rate, standard nozzles, and size. They typically have a max flow rate under 25 mm3/s.
 
-- [Rapido]()
-- [Dragon HF]()
-- [Dragonfly Hf]()
-- [Red Lizard K1]()
-- [Bambu X1/P1]()
+- [Phateus Rapido]() - V6 style hotend, supports groove or Dragon mounting, thermocouples, one-handed nozzle changes, max flow~25 mm3/s, more with UHF adapter.
+- [Phateus Dragon HF]() - V6 style hotend, supports groove or Dragon mount, one handed nozzle changes, max flow~22 mm3/s.
+- [Dragonfly Hf]() - Ender style hotend, support Ender mounting, Volcano style nozzles.
+- [Red Lizard K1]() - V6 style hotend, clone of Dragon HF, supports groove or Dragon mounting, one handed nozzle changes, max flow~22 mm3/s.
+- [Bambulabs X1/P1]() - Bambulabs hotend, supports X1/P1 style mounting, festures a low price, max flow~22 mm3/s.
 - [TZ 2.0]()
 - [TZ 3.0]()
 - [CHC Pro]()
@@ -47,6 +47,7 @@ Ultra hign flow hotends are reserved for the fastest most demanding machines. Th
 
 - [Rapido Plus]()
 - [Dragon UHF]()
+- [Trianglelabs Dragon Ace]() - V6 style hotend, variant of Dragon UHF, supports groove or Dragon mount, ceramic heater, thermocouples, 
 - [Red Lizard K1 HF]()
 - [CHC XL]()
 - [Goliath]()
