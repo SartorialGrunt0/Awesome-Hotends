@@ -5,7 +5,7 @@ The 3D printer hotend is the business end of FDM 3D printers, responsible for me
 
 This is a list of popular all-metal hotends compatible with common toolheads for Voron pritner, Printers for Ants, and other custom 3D printers. Non-standardized, PTFE lined, or proprietary hotends for  prebuilt machines shall typically be excluded unless widely adopted and supported by the community.
 
-Looking for a toolhead to go with your extruder of choice? Check out [Awesome-Toolheads](https://github.com/SartorialGrunt0/Awesome-Toolheads).
+Looking for a toolhead to go with your hotend of choice? Check out [Awesome-Toolheads](https://github.com/SartorialGrunt0/Awesome-Toolheads).
 
 How about an extruder? Checkout [Awesome-Extruders](https://github.com/SartorialGrunt0/Awesome-Extruders).
 
