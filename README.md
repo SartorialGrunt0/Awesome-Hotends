@@ -45,8 +45,8 @@ High flow hotends are the most common type of hotend used today. They provide a 
 
 Ultra hign flow hotends are reserved for the fastest most demanding machines. They offer flow rates in the ranges of 30-50 mm3/s at the cost of heat creep, size, and sometimes non-standard nozzles.
 
-- [Rapido Plus]()
-- [Dragon UHF]()
+- [Rapido Plus]() - V6 style hotend, variant of Rapido, supports groove or Dragon mounting, thermocouples, ceramic heater, one handed nozzle changes.
+- [Dragon UHF]() - V6 style hotend, variant of Dragon HF, supports groove or Dragon mounting, ceramic heater, one handed nozzles changes.
 - [Trianglelabs Dragon Ace]() - V6 style hotend, variant of Dragon UHF, supports groove or Dragon mount, ceramic heater, thermocouples, 
 - [Red Lizard K1 HF]()
 - [CHC XL]()
