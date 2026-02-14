@@ -57,3 +57,7 @@ Ultra hign flow hotends are reserved for the fastest most demanding machines. Th
 - Red Lizard K1 HF
 - [CHC XL](https://shop.thevirtualfoundry.com/products/chc-xl-extreme-high-flow-hot-end-wear-resistant-air-or-water-cooled?variant=47412803698933&country=US&currency=USD&otto_prod=67659&dm_cam=22855725992&dm_grp=&dm_ad=&dm_kw=&dm_net=adwords&tw_source=google&tw_adid=&tw_campaign=22855725992&tw_kwdid=&utm_term=&utm_campaign=WINNER-2++Performance+Max-+Aug-1+-+Generated+by+Merchants.google.com&utm_source=adwords&utm_medium=ppc&hsa_acc=4779942964&hsa_cam=22855725992&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=22878784281&gbraid=0AAAAArDmf6Rwv2oG5zW85S38-BWkKCdyi&gclid=CjwKCAiAkbbMBhB2EiwANbxtbUHgUy_5TGMF57ytS22KjhK-iM87KNdyLdaQcECuy0y3I_wmW6KHuRoCpboQAvD_BwE) - V6 style hotend, supports dragon mounting, ceramic heaters, water or air cooling.
 - [Goliath](https://github.com/VzBoT3D/Goliath) - V6 style hotend, supports dragon mounting, ceramic heater, thermocouples, water or air cooling.
+
+--------------------
+
+Did I miss something? Open an issue and I'll consider adding it to the list.
