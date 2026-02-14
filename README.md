@@ -10,11 +10,14 @@ Looking for a toolhead to go with your hotend of choice? Check out [Awesome-Tool
 How about an extruder? Checkout [Awesome-Extruders](https://github.com/SartorialGrunt0/Awesome-Extruders).
 
 --------------------
+
 ## Table of contents
 - [Standard Flow](#standard-flow)
 - [High Flow](#high-flow)
 - [Ultra High Flow](#ultra-high-flow)
 - [Legacy](#legacy)
+
+--------------------
 
 ### Standard Flow (SF)
 
@@ -26,6 +29,8 @@ Standard flow hotends are best suited for slower machines where higher flow hote
 - [Phateus Dragon SF](https://www.phaetus.com/en-us/products/dragon-hotend-st) - V6 style hotend, introduced dragon mounting, one-handed nozzle changes, max flow~15 mm3/s.
 - [Phateus Dragonfly](https://www.phaetus.com/en-us/products/dragonfly-hotend-bms) - V6/Ender style hotend, supports groove or Ender mounting, max flow~15mm3/s
 - [Trianglelabs CHC](https://trianglelab.net/products/tchc-td6s-hotend?VariantsId=10379) - V6 style hotend, supports groove mount, ceramic heater, single or two-piece nozzle and throat.
+
+--------------------
 
 ### High Flow (HF)
 
@@ -39,6 +44,8 @@ High flow hotends are the most common type of hotend used today. They provide a 
 - [TZ 2.0](https://trianglelab.net/products/tz-20-hotend-for-bambu-lab-x1-p1p?VariantsId=11766) - Clone hotend with Bambulabs style heater block, availabe in a Bambulabs, V6+Dragon, or Ender style heatbreak and mounting, feautures V6 nozzles, one handed nozzle changes, Max flow~22 mm3/s.
 - [TZ 3.0/4.0](https://www.trianglelab.net/products/tz-40-hotend?VariantsId=12040) - Clone hotend with Bambulabs style heater block, variant of TZ 2.0, available in a Bambulabs, V6+Dragon, or Ender style heatbreak and mounting, feautures single-piece throat+nozzle design, one handed nozzle changes.
 - [CHC Pro](https://trianglelab.net/products/chc-pro-hotend?VariantsId=10274) - V6 style hotend, supports groove mount, ceramic heater, variant of CHC hotend with extended ceramic heater.
+
+--------------------
 
 ### Ultra High Flow
 
