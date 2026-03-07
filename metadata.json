@@ -33,12 +33,12 @@
       "mounting_pattern": ["v6", "other"],
       "length": "18.5mm",
       "flow_rate": "standard",
-      "nozzle_compatibility": ["V6", "MK8"]
+      "nozzle_compatibility": ["V6"]
     },
     {
       "name": "Trianglelabs CHC",
-      "mounting_pattern": ["v6"],
-      "length": "unknown",
+      "mounting_pattern": ["v6,dragon"],
+      "length": "46.7mm",
       "flow_rate": "standard",
       "nozzle_compatibility": ["V6"]
     },
@@ -62,7 +62,7 @@
       "mounting_pattern": ["other"],
       "length": "unknown",
       "flow_rate": "high",
-      "nozzle_compatibility": ["MK8"]
+      "nozzle_compatibility": ["Built-in"]
     },
     {
       "name": "Red Lizard K1",
@@ -90,7 +90,7 @@
       "mounting_pattern": ["v6", "dragon", "bambu"],
       "length": "unknown",
       "flow_rate": "high",
-      "nozzle_compatibility": ["Built-in"]
+      "nozzle_compatibility": ["Other"]
     },
     {
       "name": "CHC Pro",
@@ -124,9 +124,9 @@
     {
       "name": "Red Lizard K1 HF",
       "mounting_pattern": ["bambu"],
-      "length": "unknown",
+      "length": "45.6mm",
       "flow_rate": "uhf",
-      "nozzle_compatibility": ["Built-in"]
+      "nozzle_compatibility": ["V6"]
     },
     {
       "name": "CHC XL",
