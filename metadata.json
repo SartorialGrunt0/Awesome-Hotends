@@ -1,0 +1,168 @@
+{
+  "hotends": [
+    {
+      "name": "E3D V6",
+      "mounting_pattern": ["v6"],
+      "length": "16.5mm",
+      "meltzone_length": "16.5mm",
+      "flow_rate": "standard",
+      "nozzle_compatibility": ["V6"]
+    },
+    {
+      "name": "E3D Revo",
+      "mounting_pattern": ["v6", "dragon"],
+      "length": "18.2mm",
+      "meltzone_length": "18.2mm",
+      "flow_rate": "standard",
+      "nozzle_compatibility": ["Revo"]
+    },
+    {
+      "name": "E3D Panda Revo",
+      "mounting_pattern": ["bambu"],
+      "length": "24.2",
+      "meltzone_length": "24.2",
+      "flow_rate": "standard",
+      "nozzle_compatibility": ["Revo"]
+    },
+    {
+      "name": "Phateus Dragon SF",
+      "mounting_pattern": ["dragon"],
+      "length": "26",
+      "meltzone_length": "26",
+      "flow_rate": "standard",
+      "nozzle_compatibility": ["V6"]
+    },
+    {
+      "name": "Phateus Dragonfly",
+      "mounting_pattern": ["v6", "other"],
+      "length": "18.5mm",
+      "meltzone_length": "18.5mm",
+      "flow_rate": "standard",
+      "nozzle_compatibility": ["V6"]
+    },
+    {
+      "name": "Trianglelabs CHC",
+      "mounting_pattern": ["v6", "dragon"],
+      "length": "46.7mm",
+      "meltzone_length": "46.7mm",
+      "flow_rate": "standard",
+      "nozzle_compatibility": ["V6"]
+    },
+
+    {
+      "name": "Phateus Rapido",
+      "mounting_pattern": ["v6", "dragon"],
+      "length": "33.0mm",
+      "meltzone_length": "33.0mm",
+      "flow_rate": "high",
+      "nozzle_compatibility": ["V6"]
+    },
+    {
+      "name": "Phateus Dragon HF",
+      "mounting_pattern": ["v6", "dragon"],
+      "length": "26",
+      "meltzone_length": "26",
+      "flow_rate": "high",
+      "nozzle_compatibility": ["V6"]
+    },
+    {
+      "name": "Dragonfly HIC",
+      "mounting_pattern": ["other"],
+      "length": "unknown",
+      "meltzone_length": "unknown",
+      "flow_rate": "high",
+      "nozzle_compatibility": ["Built-in"]
+    },
+    {
+      "name": "Red Lizard K1",
+      "mounting_pattern": ["v6", "dragon"],
+      "length": "26",
+      "meltzone_length": "26",
+      "flow_rate": "high",
+      "nozzle_compatibility": ["V6"]
+    },
+    {
+      "name": "Bambulabs X1/P1",
+      "mounting_pattern": ["bambu"],
+      "length": "24.2mm",
+      "meltzone_length": "24.2mm",
+      "flow_rate": "high",
+      "nozzle_compatibility": ["Built-in"]
+    },
+    {
+      "name": "TZ 2.0",
+      "mounting_pattern": ["v6", "dragon", "bambu"],
+      "length": "25.4mm",
+      "meltzone_length": "25.4mm",
+      "flow_rate": "high",
+      "nozzle_compatibility": ["V6"]
+    },
+    {
+      "name": "TZ 3.0/4.0",
+      "mounting_pattern": ["v6", "dragon", "bambu"],
+      "length": "unknown",
+      "meltzone_length": "unknown",
+      "flow_rate": "high",
+      "nozzle_compatibility": ["Other"]
+    },
+    {
+      "name": "CHC Pro",
+      "mounting_pattern": ["v6"],
+      "length": "unknown",
+      "meltzone_length": "unknown",
+      "flow_rate": "high",
+      "nozzle_compatibility": ["V6"]
+    },
+
+    {
+      "name": "Rapido Plus",
+      "mounting_pattern": ["v6", "dragon"],
+      "length": "33.0mm",
+      "meltzone_length": "33.0mm",
+      "flow_rate": "uhf",
+      "nozzle_compatibility": ["V6"]
+    },
+    {
+      "name": "Dragon UHF",
+      "mounting_pattern": ["v6", "dragon"],
+      "length": "32mm",
+      "meltzone_length": "32mm",
+      "flow_rate": "uhf",
+      "nozzle_compatibility": ["V6"]
+    },
+    {
+      "name": "Trianglelabs Dragon Ace",
+      "mounting_pattern": ["v6", "dragon"],
+      "length": "32mm",
+      "meltzone_length": "32mm",
+      "flow_rate": "uhf",
+      "nozzle_compatibility": ["V6"]
+    },
+    {
+      "name": "Red Lizard K1 HF",
+      "mounting_pattern": ["bambu"],
+      "length": "45.6mm",
+      "meltzone_length": "45.6mm",
+      "flow_rate": "uhf",
+      "nozzle_compatibility": ["V6"]
+    },
+    {
+      "name": "CHC XL",
+      "mounting_pattern": ["dragon"],
+      "length": "51.5mm",
+      "meltzone_length": "51.5mm",
+      "flow_rate": "uhf",
+      "nozzle_compatibility": ["V6"]
+    },
+    {
+      "name": "Goliath",
+      "mounting_pattern": ["dragon"],
+      "length": "49mm",
+      "meltzone_length": "49mm",
+      "flow_rate": "uhf",
+      "nozzle_compatibility": ["V6"]
+    }
+  ]
+}
+
+
