@@ -17,7 +17,6 @@ How about an extruder? Checkout [Awesome-Extruders](https://github.com/Sartorial
 - [Standard Flow](#standard-flow)
 - [High Flow](#high-flow)
 - [Ultra High Flow](#ultra-high-flow)
-- [Legacy](#legacy)
 
 --------------------
 
