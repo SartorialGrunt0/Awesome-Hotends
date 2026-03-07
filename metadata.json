@@ -15,13 +15,13 @@
     {
       "name": "E3D Panda Revo",
       "mounting_pattern": ["bambu"],
-      "length": "unknown",
+      "length": "24.2",
       "flow_rate": "standard"
     },
     {
       "name": "Phateus Dragon SF",
       "mounting_pattern": ["dragon"],
-      "length": "unknown",
+      "length": "26",
       "flow_rate": "standard"
     },
     {
@@ -46,7 +46,7 @@
     {
       "name": "Phateus Dragon HF",
       "mounting_pattern": ["v6", "dragon"],
-      "length": "unknown",
+      "length": "26",
       "flow_rate": "high"
     },
     {
@@ -58,7 +58,7 @@
     {
       "name": "Red Lizard K1",
       "mounting_pattern": ["v6", "dragon"],
-      "length": "unknown",
+      "length": "26",
       "flow_rate": "high"
     },
     {
